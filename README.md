@@ -1,4 +1,4 @@
-# Welcome to Button Click Animation!
+# Welcome to Button Click Animation App!
 
 Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
@@ -15,6 +15,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 To get started with this project, follow these simple steps:
 
 1.Clone the repository.
+
 2.Start Changing the Code according to your expectations. 
 
 
